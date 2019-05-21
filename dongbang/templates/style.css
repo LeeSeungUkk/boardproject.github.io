@@ -1,0 +1,82 @@
+body {
+	margin: 0;
+	text-align: center;
+}
+
+
+
+.container {
+     color : black;
+}
+#first_paragraph {
+    background-color : #e7f7b0;
+    Text-align : center;
+    color : skyblue;
+    padding: 50px 0 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.second_paragraph {
+    min-height: 10px;
+	position: relative;
+}
+.about{
+    text-align: left;
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 5% 20% 5% 20%
+} 
+
+#id{
+    font-size: 15px;
+	line-height: 15px;;
+    
+}
+#third_paragraph { 
+    background-color : skyblue;
+    Text-align : center;
+    bottom: 0;
+    width: 100%;
+    padding: 50px 0 20px;
+
+
+}
+#Mypicture {
+    height:130px;
+    width : 110px;
+    border-radius: 50%;
+}
+
+#mybutton {
+	background: #11cdd4;
+	background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+	background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+	background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+	background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+	background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+	-webkit-border-radius: 8;
+	-moz-border-radius: 8;
+	border-radius: 8px;
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	width: 50%;
+    
+}
+
+
+#hi {
+	font-family: 'Pacifico', cursive;
+	font-size: 60px;
+	color: skyblue;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#_link {
+	color: rgb(6, 99, 26);
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 11px 21px;
+	text-decoration: none;
+}
